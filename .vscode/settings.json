@@ -3,5 +3,6 @@
     "rust-analyzer.linkedProjects": [
         ".\\Cargo.toml",
     ],
-    "window.title": "rust_leetcode"
+    "window.title": "rust_leetcode",
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
