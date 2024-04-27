@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.linkedProjects": [
+        ".\\Cargo.toml",
+    ],
+    "window.title": "rust_leetcode"
+}
