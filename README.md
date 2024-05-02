@@ -19,4 +19,4 @@ let root = TreeNode::from_str("[1,7,0,7,-8,null,null]");
 
 ## 效果展示
 下图中, 第6~38行为解题代码, 可以拷贝到 leetcode 中提交; 42行开始是测试代码, 在 VS Code 中, 点击42行上方的 `Run Tests` 即可运行测试; 49行利用了 `commen_def` 模块, 将 leetcode 中的测试数据, 转换成 `Solution` 的函数所需要的二叉树.
-![alt text](picture\image.png)
+![alt text](picture/image.png)
