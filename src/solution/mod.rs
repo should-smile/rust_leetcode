@@ -9,3 +9,4 @@ pub mod subarrays_div_by_k;
 pub mod max_level_sum;
 pub mod one_edit_away;
 pub mod reverse_bits;
+pub mod is_match;
