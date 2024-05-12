@@ -8,3 +8,4 @@ pub mod num_moves_stones;
 pub mod subarrays_div_by_k;
 pub mod max_level_sum;
 pub mod one_edit_away;
+pub mod reverse_bits;
