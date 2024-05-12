@@ -10,3 +10,4 @@ pub mod max_level_sum;
 pub mod one_edit_away;
 pub mod reverse_bits;
 pub mod is_match;
+pub mod count_points;
